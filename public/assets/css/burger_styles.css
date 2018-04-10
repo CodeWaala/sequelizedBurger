@@ -1,0 +1,15 @@
+body {
+  background:
+     url(/assets/img/impossible-burgers.jpg);
+}
+
+.main-header {
+    background: url(../img/header-footer.png) repeat-x 0 0;
+    height: 90px;
+    margin: -2px 0;
+    color: #fff;
+}
+
+.new-burger {
+  margin: 10px;
+}
